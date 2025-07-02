@@ -1,0 +1,46 @@
+{
+  "qna": [
+    {
+      "question": "1. FARADAY'S LAW",
+      "answer": [
+        "EMF = -N·dΦ/dt",
+        "Φ = ∫B·dA (Magnetic flux)",
+        "Lenz's Law: Induced EMF opposes flux change"
+      ]
+    },
+    {
+      "question": "2. SELF AND MUTUAL INDUCTANCE",
+      "answer": [
+        "Self-Inductance (L): L = NΦ/I (Unit: Henry)",
+        "Solenoid: L = μ₀N²A/l",
+        "Mutual Inductance (M): M = Φ₂/I₁ = μ₀N₁N₂A/l"
+      ]
+    },
+    {
+      "question": "3. EDDY CURRENTS",
+      "answer": [
+        "Induced currents in bulk conductors",
+        "Applications: Braking, induction heating",
+        "Minimization: Lamination, high resistivity materials"
+      ]
+    },
+    {
+      "question": "4. PRACTICE PROBLEMS",
+      "answer": ["Solutions to all numerical problems"],
+      "subqna": [
+        {
+          "question": "Induced EMF (dΦ/dt=5 Wb/s)",
+          "answer": ["E = -5 V"]
+        },
+        {
+          "question": "Self-inductance (Φ=5Wb, I=2A)",
+          "answer": ["L = 5/2 = 2.5 H"]
+        },
+        {
+          "question": "Energy in inductor (L=10H, I=3A)",
+          "answer": ["U = ½×10×3² = 45 J"]
+        }
+      ]
+    }
+  ]
+}
